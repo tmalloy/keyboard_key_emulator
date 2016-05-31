@@ -1,8 +1,7 @@
 Keyboard Key Emulator
 =====================
 
-A simple program for emulating mac keyboard controls. Currently only audio and
-volume controls are supported.
+A simple program for emulating mac keyboard controls. This is useful when you have, for example a third party keyboard that does not have mac audio controls on it. Currently only audio and volume controls are supported.
 
 To Build
 --------
